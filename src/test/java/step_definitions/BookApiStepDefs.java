@@ -24,6 +24,7 @@ public class BookApiStepDefs {
     Response response;
 
     @Given("Authorization token is provided")
+    //we check our token value
     public void authorization_token_is_provided() {
         oauthToken = BookitApiUtil.generateToken();
         if(oauthToken==null || oauthToken.isEmpty()){
