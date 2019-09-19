@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32233ea4-7b1e-43b1-9e3a-855b606ebcc8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QLcC851FuA7auOAS5dnXFBL6hh" />
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.CukesRunner">
+    <configuration name="BookitAPIAutorization.getAllCampuses_using_access_token" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jdbc_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day7_put_delete_authorization_schemaValidation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day7_put_delete_authorization_schemaValidation" />
+      <option name="MAIN_CLASS_NAME" value="day7_put_delete_authorization_schemaValidation.BookitAPIAutorization" />
+      <option name="METHOD_NAME" value="getAllCampuses_using_access_token" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookitAPIAutorization.getAllcampuses_using_access_token" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jdbc_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day7_put_delete_authorization_schemaValidation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day7_put_delete_authorization_schemaValidation" />
+      <option name="MAIN_CLASS_NAME" value="day7_put_delete_authorization_schemaValidation.BookitAPIAutorization" />
+      <option name="METHOD_NAME" value="getAllcampuses_using_access_token" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookitApiUtil.testUtil" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jdbc_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="utils" />
+      <option name="MAIN_CLASS_NAME" value="utils.BookitApiUtil" />
+      <option name="METHOD_NAME" value="testUtil" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CukesRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jdbc_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cukesRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cukesRunner" />
+      <option name="MAIN_CLASS_NAME" value="cukesRunner.CukesRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonSchemaValidationExample.jsonSchemaValidationOfSingleSpartanAPI" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jdbc_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day8_json_schema_validation_cucumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day8_json_schema_validation_cucumber" />
+      <option name="MAIN_CLASS_NAME" value="Day8_json_schema_validation_cucumber.JsonSchemaValidationExample" />
+      <option name="METHOD_NAME" value="jsonSchemaValidationOfSingleSpartanAPI" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CukesRunner" />
+        <item itemvalue="JUnit.BookitApiUtil.testUtil" />
+        <item itemvalue="JUnit.JsonSchemaValidationExample.jsonSchemaValidationOfSingleSpartanAPI" />
+        <item itemvalue="JUnit.BookitAPIAutorization.getAllcampuses_using_access_token" />
+        <item itemvalue="JUnit.BookitAPIAutorization.getAllCampuses_using_access_token" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32233ea4-7b1e-43b1-9e3a-855b606ebcc8" name="Default Changelist" comment="" />
+      <created>1567553186912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567553186912</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/jdbcTests/JDBCExamples.java</url>
+          <line>15</line>
+          <properties class="jdbcTests.JDBCExamples" method="readRegionNames">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/restapiTests/SpartanGetTests.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/day7_put_delete_authorization_schemaValidation/SpartanDeletePut.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
