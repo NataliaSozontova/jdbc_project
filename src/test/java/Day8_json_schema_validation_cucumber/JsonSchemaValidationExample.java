@@ -12,7 +12,7 @@ import static io.restassured.module.jsv.JsonSchemaValidator.*;
 public class JsonSchemaValidationExample {
 
     @Test
-    //to do finish code - git practice
+    //to do finish code - git practice until tomorrow
     public void jsonSchemaValidationOfSingleSpartanAPI(){
         given().accept(ContentType.JSON)
                 .pathParam("id",97)
